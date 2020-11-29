@@ -1,0 +1,24 @@
+### Node ###
+# Logs
+logs
+*.log
+
+#vim ctags cache file
+tags
+
+# node-waf configuration
+.lock-wscript
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Editors
+.idea
+
+# mac os
+.DS_Store
+
+cmake-build-debug
+
+.vscode
+.cap
